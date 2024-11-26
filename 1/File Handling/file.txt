@@ -1,0 +1,4 @@
+This is an example text file.
+It contains multiple lines of text.
+You can read from this file using a file reader program.
+Enjoy coding!
